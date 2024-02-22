@@ -7,4 +7,5 @@ import lombok.Getter;
 @Getter
 public class Admin {
     private String info;
+    private String info2;
 }
