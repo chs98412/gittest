@@ -34,4 +34,9 @@ public class MemberService {
         return new Member(1l, "member1","email");
 
     }
+
+    public Member b2(){
+        return new Member(1l, "member1","email");
+
+    }
 }
