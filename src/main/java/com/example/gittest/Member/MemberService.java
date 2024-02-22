@@ -11,5 +11,8 @@ public class MemberService {
         return new Member(1l, "member1","email");
 
     }
+    public Member getMember3(){
+        return new Member(1l, "member1","email");
 
+    }
 }
