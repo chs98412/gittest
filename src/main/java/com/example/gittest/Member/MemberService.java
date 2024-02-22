@@ -7,4 +7,9 @@ public class MemberService {
     public Member getMember(){
         return new Member(1l, "member1","email");
     }
+    public Member getMember2(){
+        return new Member(1l, "member1","email");
+
+    }
+
 }
