@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class MemberService {
     public Member getMember(){
-        return new Member(1l, "member1");
+        return new Member(1l, "member1","email");
     }
 }
