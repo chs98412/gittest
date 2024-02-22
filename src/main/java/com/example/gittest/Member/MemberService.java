@@ -15,4 +15,14 @@ public class MemberService {
         return new Member(1l, "member1","email");
 
     }
+
+    public Member getMember4(){
+        return new Member(1l, "member1","email");
+
+    }
+
+    public Member getMember5(){
+        return new Member(1l, "member1","email");
+
+    }
 }
